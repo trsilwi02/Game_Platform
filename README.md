@@ -6,11 +6,8 @@ A simple 2D platformer game developed with Unity.
 
 ## 📸 Demo / Screenshot
 
-![Game Screenshot](link-to-screenshot-or-gif)
+![Screenshot](Assets/platform/widefull.png)
 
-> *(Replace the link with an actual image or GIF from your game)*
-
----
 
 ## 🎮 Gameplay Features
 
@@ -30,6 +27,11 @@ A simple 2D platformer game developed with Unity.
 |----------------|------------------------|
 | Move           | `W`, `A`, `S`, `D`     |
 | Jump           | `Space`                |
+
+![Screenshot](Assets/platform/jump.png)
+![Screenshot](Assets/platform/enemy.png)
+![Screenshot](Assets/platform/trap.png)
+![Screenshot](Assets/platform/Coin.png)
 
 ### 🎯 Objectives
 
